@@ -1,0 +1,24 @@
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.Form1.resources
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.Properties.Resources.resources
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.csproj.GenerateResource.Cache
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\bin\Debug\ADOBindingLab.exe
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\bin\Debug\ADOBindingLab.pdb
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.exe
+D:\pendrive\avneet\D0892\avneet\centennial\4 sem\C#\GUI\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.pdb
+E:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.exe
+E:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.pdb
+E:\ADOBindingLab\ADOBindingLab\bin\Debug\ADOBindingLab.exe
+E:\ADOBindingLab\ADOBindingLab\bin\Debug\ADOBindingLab.pdb
+E:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.Form1.resources
+E:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.Properties.Resources.resources
+E:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.csproj.GenerateResource.Cache
+F:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.exe
+F:\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.pdb
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.exe
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.pdb
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\bin\Debug\ADOBindingLab.exe
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\bin\Debug\ADOBindingLab.pdb
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.csprojResolveAssemblyReference.cache
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.Form1.resources
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.Properties.Resources.resources
+D:\Centennial college\Fall 2014\Programming 3\Assignment\Assignment week 11\ADOBindingLab\ADOBindingLab\obj\x86\Debug\ADOBindingLab.csproj.GenerateResource.Cache
